@@ -1,6 +1,9 @@
 # animatedHUD
 Video creator for adding a HUD to paragliding videos for YouTube  
   
+# Example on YouTube
+[![](http://img.youtube.com/vi/Kk9YNb6YHbY/0.jpg)](http://www.youtube.com/watch?v=Kk9YNb6YHbY "Say Hello to My Little Pickle")  
+  
 # Install Dependencies
 This script was designed on an Ubuntu 64-bit machine. It has been verified to work on versions as old as 16.04 and as new as 18.04. You may have to modify the installation script if it happens to fail - although those changes should be minimal. It likely will "just work".  
   
