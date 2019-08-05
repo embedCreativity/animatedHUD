@@ -6,7 +6,9 @@ This script was designed on an Ubuntu 64-bit machine. It has been verified to wo
   
 INSTALL DEPENDENCIES
 You will need to install dependencies prior to running the script. Do this with:  
-  ./install_deps.sh
+``` python
+./install_deps.sh
+```
 
 # Video Creation
 After installation, you may create a heads-up display (HUD) video by running the following command:  
