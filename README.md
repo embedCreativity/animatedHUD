@@ -4,7 +4,6 @@ Video creator for adding a HUD to paragliding videos for YouTube
 # Install Dependencies
 This script was designed on an Ubuntu 64-bit machine. It has been verified to work on versions as old as 16.04 and as new as 18.04. You may have to modify the installation script if it happens to fail - although those changes should be minimal. It likely will "just work".  
   
-INSTALL DEPENDENCIES
 You will need to install dependencies prior to running the script. Do this with:  
 ``` python
 ./install_deps.sh
